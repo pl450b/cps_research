@@ -1,6 +1,6 @@
 # Overview
 STIX2 diagram of the threat actors we're researching \
-*We're also using this to learn how stix works. If our workflow makes no sense, we're working on it*
+*We're also using this to learn how stix works. If our workflow makes no sense, please let us know. We're working on it*
 
 ## Main Points of Research
 - CL0P
